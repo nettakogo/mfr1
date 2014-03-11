@@ -3,4 +3,6 @@
 phpinfo();
 echo 'lala';
 
+echo 'ZZ.info';
+
 ?>
